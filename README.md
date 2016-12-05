@@ -234,7 +234,11 @@ Dependencies
 History Log
 ------------------
     
-- 1.2.2 -- 2016-12-05
+- 1.3.1 -- 2016-12-05
+
+    - fix misleading comment in TrackingMapRegexTransformer
+    
+- 1.3.0 -- 2016-12-05
 
     - add TrackingMapRegexTransformer->fileFunc method
     
