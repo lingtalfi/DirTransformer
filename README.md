@@ -17,7 +17,7 @@ Install
 
 Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
 ```bash
-uni import DirTransformer
+uni import Ling/DirTransformer
 ```
 
 
@@ -83,8 +83,8 @@ Using the following code:
 <?php
 
 
-use DirTransformer\Scanner\Scanner;
-use DirTransformer\Transformer\RegexTransformer;
+use Ling\DirTransformer\Scanner\Scanner;
+use Ling\DirTransformer\Transformer\RegexTransformer;
 
 require "bigbang.php";
 
@@ -146,8 +146,8 @@ Using the following code:
 <?php
 
 
-use DirTransformer\Scanner\Scanner;
-use DirTransformer\Transformer\TrackingMapRegexTransformer;
+use Ling\DirTransformer\Scanner\Scanner;
+use Ling\DirTransformer\Transformer\TrackingMapRegexTransformer;
 
 require "bigbang.php";
 

@@ -1,12 +1,12 @@
 <?php
 
 
-namespace DirTransformer\Scanner;
+namespace Ling\DirTransformer\Scanner;
 
 
-use Bat\FileSystemTool;
-use DirTransformer\Transformer\TrackingInterface;
-use DirTransformer\Transformer\TransformerInterface;
+use Ling\Bat\FileSystemTool;
+use Ling\DirTransformer\Transformer\TrackingInterface;
+use Ling\DirTransformer\Transformer\TransformerInterface;
 
 class Scanner
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DirTransformer\Transformer;
+namespace Ling\DirTransformer\Transformer;
 
 
 /**
